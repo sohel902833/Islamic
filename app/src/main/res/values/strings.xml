@@ -1,0 +1,2004 @@
+<resources>
+    <string name="app_name" translatable="false">IslamicApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subject_text">আর আপনি আপনার রব্বকে স্বরণ করুন মনে  মনে,মিনতি ও ভিতিসহকারে , অনুচ্চস্বরে ; মিনতি ও ভীতি সহকারে, অনুচ্চস্বরে ; সকালে ও সন্ধ্যায় । আর উদাসীনদের অন্তর্ভুক্ত হবেন না। [৭:২০৫]</string>
+
+
+    <string-array name="para1">
+        <item>সূরা আল ফাতিহা</item>
+        <item>সূরা আল বাকারাহ (১-১৪১)</item>
+    </string-array>
+    <string-array name="para2">
+        <item>সূরা আল বাকারাহ (১৪২-২৫২)</item>
+    </string-array>
+    <string-array name="para3">
+        <item>সূরা আল বাকারাহ (২৫৩-২৮৬)</item>
+        <item>সূরা আল ইমরান(১-৯১)</item>
+    </string-array>
+    <string-array name="para4">
+        <item>সূরা আল ইমরান(৯২-২০০)</item>
+        <item>সূরা আন নিসা(১-২৩)</item>
+    </string-array>
+    <string-array name="para5">
+        <item>সূরা আন নিসা(২৪-১৪৭)</item>
+    </string-array>
+    <string-array name="para6">
+        <item>সূরা আন নিসা(১৪৮-১৭৬)</item>
+        <item>সূরা আল মায়েদাহ(১-৭৬)</item>
+    </string-array>
+    <string-array name="para7">
+        <item>সূরা আল মায়েদাহ(৭৬-১২০)</item>
+        <item>সূরা আল আন-আম(১-১০৯)</item>
+    </string-array>
+    <string-array name="para8">
+        <item>সূরা আল আন-আম(১১০-১৬৫)</item>
+        <item>সূরা আল আ’রাফ(১-৮৭)</item>
+    </string-array>
+    <string-array name="para9">
+        <item>সূরা আল আ’রাফ(৮৮-২০৬)</item>
+        <item>সূরা আল-আনফাল(১-৪০)</item>
+    </string-array>
+    <string-array name="para10">
+        <item>সূরা আল-আনফাল(৪১-৭৫)</item>
+        <item> সূরা আত-তাওবাহ (১-৯৩)</item>
+    </string-array>
+    <string-array name="para11">
+        <item> সূরা আত-তাওবাহ (৯৪-১২৯)</item>
+        <item> সূরা ইউনুস</item>
+        <item>সূরা হুদ(১-৫)</item>
+    </string-array>
+    <string-array name="para12">
+        <item>সূরা হুদ(৬-১২৩)</item>
+        <item> সূরা ইউসুফ(১-৫২)</item>
+    </string-array>
+    <string-array name="para13">
+        <item> সূরা ইউসুফ(৫৩-১১১)</item>
+        <item>  সূরা আর-রাদ</item>
+        <item>  সূরা ইবরাহিম</item>
+        <item> সূরা আল-হিজর(১)</item>
+    </string-array>
+    <string-array name="para14">
+        <item> সূরা আল-হিজর(২-৯৯)</item>
+        <item>সূরা আন-নাহাল</item>
+    </string-array>
+    <string-array name="para15">
+        <item> সূরা বনি ইসরাইল</item>
+        <item>সূরা আল-কাহফ(১-৭৪)</item>
+    </string-array>
+    <string-array name="para16">
+        <item>সূরা আল-কাহফ(৭৫-১১০)</item>
+        <item>সূরা মারইয়াম</item>
+        <item> সূরা আত-ত্বহা</item>
+    </string-array>
+    <string-array name="para17">
+
+        <item>সূরা আল-আম্বিয়া</item>
+        <item>সূরা আল-হাজ্জ্ব</item>
+
+    </string-array>
+    <string-array name="para18">
+
+        <item>সূরা আল মু’মিনূন</item>
+        <item> সূরা আন-নূর</item>
+
+        <item>সূরা আল-ফুরকান(১-২০)</item>
+    </string-array>
+
+
+    <string-array name="para19">
+        <item>সূরা আল-ফুরকান(২১-৭৭)</item>
+        <item>সূরা আশ-শুরা</item>
+        <item>  সূরা আন-নমল(১-৫৯)</item>
+    </string-array>
+    <string-array name="para20">
+        <item>  সূরা আন-নমল(৬০-৯৩)</item>
+        <item> সূরা আল কাসাস</item>
+        <item>সূরা আল-আনকাবুত(১-৪৪)</item>
+    </string-array>
+    <string-array name="para21">
+        <item>সূরা আল-আনকাবুত(৪৫-৬৯)</item>
+        <item>সূরা আর-রূম</item>
+        <item> সূরা লোকমান</item>
+        <item>সূরা [হা মীম] আস-সিজদাহ</item>
+
+        <item>সূরা আল-আহজাব(১-৩০)</item>
+    </string-array>
+    <string-array name="para22">
+        <item>সূরা আল-আহজাব(৩১-৭৩)</item>
+        <item>সূরা আস-সাবা</item>
+        <item>সূরা আল-ফাতির</item>
+        <item> সূরা ইয়াসীন(১-২১)</item>
+    </string-array>
+    <string-array name="para23">
+        <item> সূরা ইয়াসীন(২২-৮৩)</item>
+        <item>আস-সাফফাত</item>
+        <item>সূরা আস-ছোয়াদ</item>
+        <item>সূরা আল-যুমার(১-৩১)</item>
+    </string-array>
+    <string-array name="para24">
+        <item>সূরা আল-যুমার(৩২-৭৫)</item>
+        <item>সূরা আল-মু’মিন</item>
+        <item> সূরা আস-সাজদা(১-৪৬)</item>
+    </string-array>
+    <string-array name="para25">
+        <item> সূরা আস-সাজদা(১-৪৬)</item>
+        <item>সূরা আশ-শো’আরা</item>
+        <item> সূরা আজ-জুখরুফ</item>
+        <item> সূরা আদ-দুখান</item>
+        <item> আল-জাসিয়াহ</item>
+    </string-array>
+
+
+    <string-array name="para26">
+        <item>আল-আহক্বাফ</item>
+        <item>সূরা মুহাম্মদ</item>
+        <item>আল-ফাতাহ</item>
+        <item>সূরা আল-হুজরাত</item>
+        <item>সূরা ক্বাফ</item>
+        <item>সূরা আয-যারিয়াত(1-30)</item>
+    </string-array>
+    <string-array name="para27">
+        <item>সূরা আয-যারিয়াত(31-60)</item>
+        <item>সূরা আত্ব তূর </item>
+        <item>সূরা আন-নাজম </item>
+        <item> সূরা আল ক্বামার</item>
+        <item>সূরা আর রহমান</item>
+        <item>সূরা আল ওয়াক্বিয়া</item>
+        <item>সূরা আল হাদীদ </item>
+    </string-array>
+    <string-array name="para28">
+        <item> সূরা আল মুজাদালাহ</item>
+        <item>সূরা আল হাশর</item>
+        <item>সূরা আল মুমতাহিনা</item>
+        <item>সূরা আছ-ছফ</item>
+        <item>সূরা আল জুমুআহ</item>
+        <item>সূরা মুনাফিকুন</item>
+        <item>সূরা আত-তাগাবুন</item>
+        <item> সূরা আত্ব-ত্বালাক্ব</item>
+        <item>সূরা আত-তাহরীম</item>
+    </string-array>
+    <string-array name="para29">
+        <item> সূরা আল মুলক</item>
+        <item>সূরা আল-ক্বলম</item>
+        <item>সূরা আল হাক্বক্বাহ</item>
+        <item>সূরা আল মা’আরিজ</item>
+        <item>সূরা নূহ</item>
+        <item>সূরা আল জিন</item>
+        <item>সূরা আল-মুজজাম্মিল</item>
+        <item>সূরা আল মুদ্দাস্‌সির</item>
+        <item>সূরা আল ক্বেয়ামাহ</item>
+        <item>সূরা আদ-দাহর</item>
+        <item>সূরা আল মুরসালাত </item>
+    </string-array>
+    <string-array name="para30">
+
+        <item>সূরা আন-নাবা</item>
+        <item>সূরা আন-নাজিয়াত</item>
+        <item> সূরা আবাসা</item>
+        <item> সূরা আত-তাকওয়ির</item>
+        <item>সূরা আল-ইনফিতার</item>
+        <item>সূরা আল-মুতাফফিফিন</item>
+        <item>সূরা আল-ইনশিকাক</item>
+        <item>সূরা আল-বুরুজ</item>
+        <item>সূরা আত-তারিক</item>
+        <item>সূরা আল-আলা</item>
+        <item>সূরা আল-গাশিয়াহ</item>
+        <item>সূরা আল-ফাজর</item>
+        <item> সূরা আল-বালাদ</item>
+        <item> সূরা আশ- শামস</item>
+        <item>সূরা আল লায়ল</item>
+        <item>সূরা আদ্ব-দ্বোহা</item>
+        <item> সূরা আল ইনশিরাহ</item>
+        <item> সূরা আল ত্বীন</item>
+        <item>সূরা আলাক</item>
+        <item>সূরা কদর</item>
+        <item>সূরা বাইয়্যিনাহ</item>
+        <item>সূরা যিলযাল</item>
+        <item> সূরা আদিয়াত</item>
+        <item>  সূরা কারেয়া</item>
+        <item>সূরা তাকাসূর</item>
+        <item>সূরা আছর</item>
+        <item>সূরা হুমাযাহ</item>
+        <item> সূরা ফীল</item>
+        <item>সূরা কোরাইশ</item>
+        <item>সূরা মাউন</item>
+        <item>সূরা কাওসার</item>
+        <item>সূরা কাফিরুন</item>
+        <item>সূরা নছর</item>
+        <item>সূরা লাহাব</item>
+        <item>সূরা এখলাছ</item>
+        <item>সূরা ফালাক</item>
+        <item>সূরা নাস</item>
+
+
+    </string-array>
+    <string-array name="sura_Serial">
+
+
+        <item>১</item>
+        <item>২</item>
+        <item>৩</item>
+        <item>৪</item>
+        <item>৫</item>
+        <item>৬</item>
+        <item>৭</item>
+        <item>৮</item>
+        <item>৯</item>
+        <item>১০</item>
+        <item>১১</item>
+        <item>১২</item>
+        <item>১৩</item>
+        <item>১৪</item>
+        <item>১৫</item>
+        <item>১৬</item>
+        <item>১৭</item>
+        <item>১৮</item>
+        <item>১৯</item>
+        <item>২০</item>
+        <item>২১</item>
+        <item>২২</item>
+        <item>২৩</item>
+        <item>২৪</item>
+        <item>২৫</item>
+        <item>২৬</item>
+        <item>২৭</item>
+        <item>২৮</item>
+        <item>২৯</item>
+        <item>৩০</item>
+        <item>৩১</item>
+        <item>৩২</item>
+        <item>৩৩</item>
+        <item>৩৪</item>
+        <item>৩৫</item>
+        <item>৩৬</item>
+        <item>৩৭</item>
+        <item>৩৮</item>
+        <item>৩৯</item>
+        <item>৪০</item>
+        <item>৪১</item>
+        <item>৪২</item>
+        <item>৪৩</item>
+        <item>৪৪</item>
+        <item>৪৫</item>
+        <item>৪৬</item>
+        <item>৪৭</item>
+        <item>৪৮</item>
+        <item>৪৯</item>
+        <item>৫০</item>
+        <item>৫১</item>
+        <item>৫২</item>
+        <item>৫৩</item>
+        <item>৫৪</item>
+        <item>৫৫</item>
+        <item>৫৬</item>
+        <item>৫৭</item>
+        <item>৫৮</item>
+        <item>৫৯</item>
+        <item>৬০</item>
+        <item>৬১</item>
+        <item>৬২</item>
+        <item>৬৩</item>
+        <item>৬৪</item>
+        <item>৬৫</item>
+        <item>৬৬</item>
+        <item>৬৭</item>
+        <item>৬৮</item>
+        <item>৬৯</item>
+        <item>৭০</item>
+        <item>৭১</item>
+        <item>৭২</item>
+        <item>৭৩</item>
+        <item>৭৪</item>
+        <item>৭৫</item>
+        <item>৭৬</item>
+        <item>৭৭</item>
+        <item>৭৮</item>
+        <item>৭৯</item>
+        <item>৮০</item>
+        <item>৮১</item>
+        <item>৮২</item>
+        <item>৮৩</item>
+        <item>৮৪</item>
+        <item>৮৫</item>
+        <item>৮৬</item>
+        <item>৮৭</item>
+        <item>৮৮</item>
+        <item>৮৯</item>
+        <item>৯০</item>
+        <item>৯১</item>
+        <item>৯২</item>
+        <item>৯৩</item>
+        <item>৯৪</item>
+        <item>৯৫</item>
+        <item>৯৬</item>
+        <item>৯৭</item>
+        <item>৯৮</item>
+        <item>৯৯</item>
+        <item>১০০</item>
+        <item>১০১</item>
+        <item>১০২</item>
+        <item>১০৩</item>
+        <item>১০৪</item>
+        <item>১০৫</item>
+        <item>১০৬</item>
+        <item>১০৭</item>
+        <item>১০৮</item>
+        <item>১০৯</item>
+        <item>১১০</item>
+        <item>১১১</item>
+        <item>১১২</item>
+        <item>১১৩</item>
+        <item>১১৪</item>
+    </string-array>
+
+
+    <string-array name="blessings1">
+        <item>যিক্‌রের ফযীলত</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #১</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #২</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #৩</item>
+        <item>সূরা আল-ইমরান আয়াত ১৯০-২০০</item>
+        <item>কাপড় পরিধানের দো‘আ</item>
+        <item>নতুন কাপড় পরিধানের দো‘আ</item>
+        <item>অপরকে নতুন কাপড় পরিধান করতে দেখলে তার জন্য দো‘আ #১</item>
+        <item>অপরকে নতুন কাপড় পরিধান করতে দেখলে তার জন্য দো‘আ #২</item>
+        <item>কাপড় খুলে রাখার সময় কী বলবে</item>
+        <item>পায়খানায় প্রবেশের দো‘আ</item>
+        <item>পায়খানা থেকে বের হওয়ার দো‘আ</item>
+        <item>ওযুর পূর্বে যিক্‌র</item>
+        <item>ওযু শেষ করার পর যিক্‌র #১</item>
+        <item>ওযু শেষ করার পর যিক্‌র #২</item>
+        <item>ওযু শেষ করার পর যিক্‌র #৩</item>
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #১</item>
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #২</item>
+        <item>ঘরে প্রবেশের সময় যিক্‌র</item>
+        <item>মসজিদে যাওয়ার সময়ে পড়ার দো‘আ</item>
+        <item>মসজিদে প্রবেশের দো‘আ</item>
+        <item>মসজিদ থেকে বের হওয়ার দো‘আ</item>
+        <item>আযানের যিক্‌রসমূহ</item>
+        <item>সালাতের শুরুতে দো‘আ #১</item>
+        <item>সালাতের শুরুতে দো‘আ #২</item>
+        <item>সালাতের শুরুতে দো‘আ #৩</item>
+        <item>সালাতের শুরুতে দো‘আ #৪</item>
+        <item>সালাতের শুরুতে দো‘আ #৫</item>
+        <item>সালাতের শুরুতে দো‘আ #৬</item>
+        <item>রুকূ‘র দো‘আ #১</item>
+        <item>রুকূ‘র দো‘আ #২</item>
+        <item>রুকূ‘র দো‘আ #৩</item>
+        <item>রুকূ‘র দো‘আ #৪</item>
+        <item>রুকূ‘র দো‘আ #৫</item>
+        <item>রুকু থেকে উঠার দো‘আ #১</item>
+        <item>রুকু থেকে উঠার দো‘আ #২</item>
+        <item>রুকু থেকে উঠার দো‘আ #৩</item>
+        <item>সিজদার দো‘আ #১</item>
+        <item>সিজদার দো‘আ #২</item>
+        <item>সিজদার দো‘আ #৩</item>
+        <item>সিজদার দো‘আ #৪</item>
+        <item>সিজদার দো‘আ #৫</item>
+        <item>সিজদার দো‘আ #৬</item>
+        <item>সিজদার দো‘আ #৭</item>
+        <item>দুই সিজদার মধ্যবর্তী বৈঠকের দো‘আ #১</item>
+        <item>দুই সিজদার মধ্যবর্তী বৈঠকের দো‘আ #২</item>
+        <item>সিজদার আয়াত তেলাওয়াতের পর সিজদায় দো‘আ #১</item>
+        <item>সিজদার আয়াত তেলাওয়াতের পর সিজদায় দো‘আ #২</item>
+        <item>তাশাহ্‌হুদ</item>
+        <item>তাশাহ্‌হুদের পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপর দরুদ পাঠ #১</item>
+        <item>তাশাহ্‌হুদের পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপর দরুদ পাঠ #২</item>
+        <item>কবর ও জাহান্নামের আযাব এবং জীবন, মৃত্যু ও দাজ্জালের ফিতনা থেকে আশ্রয় চাওয়ার দোআ</item>
+        <item>কবর ও জাহান্নামের আযাব, জীবন, মৃত্যু ও দাজ্জালের ফিতনা এবং গুনাহ ও ঋণ থেকে আশ্রয় চাওয়ার দোআ</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ </item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #১</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #২</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #৩</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #৪</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #৫</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #৬</item>
+        <item>কৃপণতা, কাপুরুষতা, বার্ধক্য এবং ফিতনা থেকে আশ্রয় চাওয়ার দোআ</item>
+        <item>জাহান্নাম থেকে আশ্রয় এবং জান্নাত চাওয়ার দোআ</item>
+        <item>সালাম ফিরানোর পর যিকরসমূহ #১</item>
+        <item>সালাম ফিরানোর পর যিকরসমূহ #২</item>
+        <item>সালাম ফিরানোর পর যিকরসমূহ #৩</item>
+        <item>পাপরাশি ক্ষমা করে দেওয়া হয়, যদিও তা সমুদ্রের ফেনারাশির মত হয়</item>
+        <item>কুরআনের শেষ তিন সূরা</item>
+        <item>আয়াতুল কুরসি: সূরা আল-বাকারাহ্‌ ২৫৫</item>
+        <item>সালাম ফিরানোর পর যিকরসমূহ #৭</item>
+        <item>উপকারী জ্ঞান, পবিত্র রিযিক এবং কবুলযোগ্য আমলের দোআ</item>
+        <item>ইসতিখারার সালাতের দো‘আ</item>
+        <item>সকাল ও বিকালের যিক্‌রের ফযীলত</item>
+        <item>আয়াতুল কুরসি: সূরা আল-বাকারাহ্‌ ২৫৫</item>
+        <item>সবকিছুর (নিরাপত্তার) জন্য যথেষ্ট যে দোআ</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #৪</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #৫</item>
+        <item>সায়্যিদুল ইসতিগফার (ক্ষমা চাওয়ার শ্রেষ্ঠ দোআ)</item>
+        <item>জাহান্নামের আগুন থেকে মুক্তি</item>
+        <item>আল্লাহর নিকট শুকরিয়া আদায়</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #৯</item>
+        <item>দুনিয়া ও আখেরাতের সকল চিন্তাভাবনার জন্য আল্লাহ্ই যথেষ্ট হবেন</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১১</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১২</item>
+        <item>কোনো কিছু তার ক্ষতি করতে পারবে না</item>
+        <item>কিয়ামতের দিনে আল্লাহর সন্তুষ্টি</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১৫</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১৬</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১৭</item>
+        <item>তার চেয়ে কেউ উৎকৃষ্ট হবে না যে এই দোআ বেশি পরবে</item>
+        <item>দশটি দাসমুক্তির অনুরূপ ও একশত সাওয়াব</item>
+        <item>চারটি কালেমা সারা সকাল ইবাদতের চেয়েও ওজনে ভারী</item>
+        <item>উপকারী জ্ঞান, পবিত্র রিযিক এবং কবুলযোগ্য আমলের দোআ</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #২২</item>
+        <item>বিষধর প্রাণীর ক্ষতি থেকে নিরাপত্তা</item>
+        <item>কিয়ামতের দিন রসুলুল্লাহ (স:)এর সুপারিশ লাভ</item>
+        <item>কুরআনের শেষ তিন সূরা</item>
+        <item>আয়াতুল কুরসি: সূরা আল-বাকারাহ্‌ ২৫৫</item>
+        <item>সূরা বাকারাহ্‌ আয়াত ২৮৫-২৮৬</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৪</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৫</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৬</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৭</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৮</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৯</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #১০</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #১১</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #১২</item>
+        <item>ফিত্‌রাহের উপর মৃত্যুবরণ করা</item>
+        <item>রাতে যখন পার্শ্ব পরিবর্তন করে তখন পড়ার দো‘আ</item>
+        <item>ঘুমন্ত অবস্থায় ভয় এবং একাকিত্বের অস্বস্তিতে পড়ার দো‘আ</item>
+        <item>খারাপ স্বপ্ন বা দুঃস্বপ্ন দেখে যা করবে</item>
+        <item>বিত্‌রের কুনুতের দো‘আ #১</item>
+        <item>বিত্‌রের কুনুতের দো‘আ #২</item>
+        <item>বিত্‌রের কুনুতের দো‘আ #৩</item>
+        <item>বিত্‌রের নামায থেকে সালাম ফিরানোর পরের যিক্‌র</item>
+        <item>দুঃখ ও দুশ্চিন্তার সময় পড়ার দো‘আ #১</item>
+        <item>দুঃখ ও দুশ্চিন্তার সময় পড়ার দো‘আ #২</item>
+        <item>দুর্দশাগ্রস্ত ব্যক্তির দো‘আ #১</item>
+        <item>দুর্দশাগ্রস্ত ব্যক্তির দো‘আ #২</item>
+        <item>দুর্দশাগ্রস্ত ব্যক্তির দো‘আ #৩</item>
+        <item>দুর্দশাগ্রস্ত ব্যক্তির দো‘আ #৪</item>
+        <item>শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দো‘আ #১</item>
+        <item>শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দো‘আ #২</item>
+        <item>শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দো‘আ #৩</item>
+        <item>শাসকের অত্যাচারের ভয় করলে পড়ার দো‘আ #১</item>
+        <item>শাসকের অত্যাচারের ভয় করলে পড়ার দো‘আ #২</item>
+        <item>শত্রুর উপর বদ-দো‘আ</item>
+        <item>কোনো সম্প্রদায়কে ভয় করলে যা বলবে</item>
+        <item>ঈমানের মধ্যে সন্দেহে পতিত ব্যক্তির দো‘আ #১</item>
+        <item>ঈমানের মধ্যে সন্দেহে পতিত ব্যক্তির দো‘আ #২</item>
+        <item>ঋণ মুক্তির জন্য দো‘আ #১</item>
+        <item>ঋণ মুক্তির জন্য দো‘আ #২</item>
+        <item>সালাতে ও কিরাআতে শয়তানের কুমন্ত্রণায় পতিত ব্যক্তির দো‘আ</item>
+        <item>কঠিন কাজে পতিত ব্যক্তির দো‘আ</item>
+        <item>পাপ করে ফেললে যা বলবে এবং যা করবে</item>
+        <item>শয়তান ও তার কুমন্ত্রণা দূর করার দো‘আ</item>
+        <item>যখন অনাকাঙ্খিত কিছু ঘটে, বা যা করতে চায় তাতে বাধাপ্রাপ্ত হয়, তখন পড়ার দো‘আ</item>
+        <item>সন্তান লাভকারীকে অভিনন্দন ও তার জবাব</item>
+        <item>যা দ্বারা শিশুদের জন্য আশ্রয় প্রার্থনা করা হয়</item>
+        <item>রোগী দেখতে যাওয়ার ফযিলত</item>
+        <item>রোগী দেখতে গিয়ে তার জন্য দো‘আ #১</item>
+        <item>রোগী দেখতে গিয়ে তার জন্য দো‘আ #২</item>
+        <item>জীবনের আশা ছেড়ে দেওয়া রোগীর দো‘আ #১</item>
+        <item>জীবনের আশা ছেড়ে দেওয়া রোগীর দো‘আ #২</item>
+        <item>জীবনের আশা ছেড়ে দেওয়া রোগীর দো‘আ #৩</item>
+        <item>মরণাপন্ন ব্যক্তিকে তালক্বীন (কালেমা স্মরণ করিয়ে দেওয়া)</item>
+        <item>কোনো মুসিবতে পতিত ব্যক্তির দো‘আ</item>
+        <item>মৃত ব্যক্তির চোখ বন্ধ করানোর দো‘আ</item>
+        <item>মৃত ব্যক্তির জন্য জানাযার সালাতে দো‘আ #১</item>
+        <item>মৃত ব্যক্তির জন্য জানাযার সালাতে দো‘আ #২</item>
+        <item>মৃত ব্যক্তির জন্য জানাযার সালাতে দো‘আ #৩</item>
+        <item>মৃত ব্যক্তির জন্য জানাযার সালাতে দো‘আ #৪</item>
+        <item>নাবালক শিশুদের জন্য জানাযার সালাতে দো‘আ #১</item>
+        <item>নাবালক শিশুদের জন্য জানাযার সালাতে দো‘আ #২</item>
+        <item>নাবালক শিশুদের জন্য জানাযার সালাতে দো‘আ #৩</item>
+        <item>শোকার্তদের সান্ত্বনা দেওয়ার দো‘আ #১</item>
+        <item>শোকার্তদের সান্ত্বনা দেওয়ার দো‘আ #২</item>
+        <item>মৃতকে কবরে প্রবেশ করানোর দো‘আ</item>
+        <item>মৃতকে দাফন করার পর দো‘আ</item>
+        <item>কবর যিয়ারতের দো‘আ</item>
+        <item>বায়ূ প্রবাহিত হলে পড়ার দো‘আ #১</item>
+        <item>বায়ূ প্রবাহিত হলে পড়ার দো‘আ #২</item>
+        <item>মেঘের গর্জন শুনলে পড়ার দো‘আ</item>
+        <item>বৃষ্টি চাওয়ার কিছু দো‘আ #১</item>
+        <item>বৃষ্টি চাওয়ার কিছু দো‘আ #২</item>
+        <item>বৃষ্টি চাওয়ার কিছু দো‘আ #৩</item>
+        <item>বৃষ্টি দেখলে দো‘আ</item>
+        <item>বৃষ্টি বর্ষণের পর যিকর</item>
+        <item>অতিবৃষ্টি বন্ধের জন্য কিছু দো‘আ</item>
+        <item>নতুন চাঁদ দেখে পড়ার দো‘আ</item>
+        <item>ইফতারের সময় রোযাদারের দো‘আ #১</item>
+        <item>ইফতারের সময় রোযাদারের দো‘আ #২</item>
+        <item>খাওয়ার পূর্বে দো‘আ #১</item>
+        <item>খাওয়ার পূর্বে দো‘আ #২</item>
+        <item>আহার শেষ করার পর দো‘আ #১</item>
+        <item>আহার শেষ করার পর দো‘আ #২</item>
+        <item>আহারের আয়োজনকারীর জন্য মেহমানের দো‘আ</item>
+        <item>দো‘আর মাধ্যমে খাবার বা পানীয় চাওয়ার ইঙ্গিত করা</item>
+        <item>কোনো পরিবারের কাছে ইফতার করলে তাদের জন্য দো‘আ</item>
+        <item>রোযাদারের নিকট যদি খাবার উপস্থিত হয়, আর সে রোযা না ভাঙ্গে তখন তার দো‘আ করা</item>
+        <item>রোযাদারকে কেউ গালি দিলে যা বলবে</item>
+        <item>ফলের কলি দেখলে পড়ার দো‘আ</item>
+        <item>হাঁচির দো‘আ</item>
+        <item>কাফের ব্যক্তি হাঁচি দিয়ে আলহামদুলিল্লাহ বললে তার জবাবে যা বলা হবে</item>
+        <item>নব বিবাহিতের জন্য দো‘আ</item>
+        <item>বিবাহিত ব্যক্তির দো‘আ এবং বাহন ক্রয়ের পর দো‘আ</item>
+        <item>স্ত্রী-সহবাসের পুর্বের দো‘আ</item>
+        <item>ক্রোধ দমনের দো‘আ</item>
+        <item>বিপন্ন লোক দেখলে পড়ার দো‘আ</item>
+        <item>মজলিসে যা বলতে হয়</item>
+        <item>বৈঠকের শেষে কাফ্‌ফারা হিসেবে দোআ</item>
+        <item>কেউ যদি বলে, ‘আল্লাহ আপনাকে ক্ষমা করুন’, তার জন্য দো‘আ</item>
+        <item>কেউ আপনার সাথে সদাচারণ করলে তার জন্য দো‘আ</item>
+        <item>আল্লাহ যা দ্বারা দাজ্জাল থেকে হেফাযত করবেন</item>
+        <item>যে ব্যক্তি বলবে, ‘আমি আপনাকে আল্লাহ্‌র জন্য ভালোবাসি’— তার জন্য দো‘আ</item>
+        <item>আপনাকে কেউ তার সম্পদ দান করার জন্য পেশ করলে তার জন্য দো‘আ</item>
+        <item>কেউ ঋণ দিলে তা পরিশোধের সময় দো‘আ</item>
+        <item>শির্কের ভয়ে দো‘আ</item>
+        <item>কেউ যদি বলে, ‘আল্লাহ আপনার উপর বরকত দিন’, তার জন্য দো‘আ</item>
+        <item>অশুভ লক্ষণ গ্রহণকে অপছন্দ করে দো‘আ</item>
+        <item>বাহনে আরোহণের দো‘আ</item>
+        <item>সফরের দো‘আ</item>
+        <item>গ্রাম বা শহরে প্রবেশের দো‘আ</item>
+        <item>বাজারে প্রবেশের দো‘আ</item>
+        <item>বাহন হোঁচট খেলে পড়ার দো‘আ</item>
+        <item>মুক্বীম বা অবস্থানকারীদের জন্য মুসাফিরের দো‘আ</item>
+        <item>মুসাফিরের জন্য মুক্বীম বা অবস্থানকারীর দো‘আ #১</item>
+        <item>মুসাফিরের জন্য মুক্বীম বা অবস্থানকারীর দো‘আ #২</item>
+        <item>উপরে উঠা ও নিচে নামার দো‘আ</item>
+        <item>রাত্রির শেষ প্রহরে মুসাফিরের দো‘আ</item>
+        <item>সফরে বা অন্য অবস্থায় কোনো ঘরে নামলে পড়ার দো‘আ</item>
+        <item>সফর থেকে ফেরার যিক্‌র</item>
+        <item>আনন্দদায়ক অথবা অপছন্দনীয় কিছুর সম্মুখীন হলে যা বলবে</item>
+        <item>নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপর দরূদ পাঠের ফযীলত</item>
+        <item>সালামের প্রসার</item>
+        <item>কাফের সালাম দিলে কীভাবে জবাব দিবে</item>
+        <item>মোরগের ডাক ও গাধার স্বর অথবা রাতের বেলায় কুকুরের ডাক শুনলে দো‘আ</item>
+        <item>সন্ধায় উপনীত হলে করণীয়</item>
+        <item>যাকে আপনি গালি দিয়েছেন তার জন্য দো‘আ</item>
+        <item>কোনো মুসলিম অপর মুসলিমকে প্রশংসা করলে যা বলবে</item>
+        <item>কোনো মুসলিমের প্রশংসা করা হলে সে যা বলবে</item>
+        <item>হজ্জ বা উমরায় মুহরিম ব্যক্তি কিভাবে তালবিয়াহ পড়বে</item>
+        <item>হাজরে আসওয়াদের কাছে আসলে তাকবীর বলা</item>
+        <item>রুকনে ইয়ামানী ও হাজরে আসওয়াদের মাঝে দো‘আ</item>
+        <item>সাফা ও মারওয়ায় দাঁড়িয়ে যা পড়বে</item>
+        <item>আরাফাতের দিনে দো‘আ</item>
+        <item>মাশ‘আরুল হারাম তথা মুযদালিফায় যিক্‌র</item>
+        <item>জামরাসমূহে প্রত্যেক কংকর নিক্ষেপকালে তাকবীর বলা</item>
+        <item>আশ্চর্যজনক ও আনন্দজনক বিষয়ের পর দো‘আ</item>
+        <item>আনন্দদায়ক কোনো সংবাদ আসলে যা করবে</item>
+        <item>শরীরে কোনো ব্যথা অনুভব করলে যা করবে ও বলবে</item>
+        <item>কোনো কিছুর উপর নিজের চোখ লাগার ভয় থাকলে দো‘আ</item>
+        <item>ভীত অবস্থায় যা বলবে</item>
+        <item>পশু যবেহ বা নাহর করার সময় যা বলবে</item>
+        <item>দুষ্ট শয়তানদের ষড়যন্ত্র প্রতিহত করতে যা বলবে</item>
+        <item>ক্ষমা প্রার্থনা ও তাওবা করা</item>
+        <item>তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত</item>
+        <item>ইসমাঈল (আ:) এর সন্তানদের চারজনকে দাসত্ব থেকে মুক্ত করার সমান সওয়াব</item>
+        <item>যিকির যা জবানে সহজ আর মীযানের পাল্লায় ভারী</item>
+        <item>আল্লাহ্‌র নিকট সর্বাধিক প্রিয় বাক্য</item>
+        <item>এক হাজার সওয়াব লেখা অথবা এক হাজার পাপ মুছে ফেলা</item>
+        <item>জান্নাতের একটি খেজুর গাছ</item>
+        <item>জান্নাতের এক রত্নভাণ্ডার</item>
+        <item>তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত #৮</item>
+        <item>তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত #৯</item>
+        <item>সর্বশ্রেষ্ঠ দো‘আ এবং সর্বোত্তম যিক্‌র</item>
+        <item>চিরস্থায়ী নেক আমল</item>
+        <item>কীভাবে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাসবীহ পাঠ করতেন?</item>
+        <item>বিবিধ কল্যাণ ও সামষ্টিক কিছু আদব</item>
+        <item>সূরা আল-ফাতিহা - ১:১-৭</item>
+        <item>জাহিলিয়াত থেকে মুক্তি [২:৬৭]</item>
+        <item>সূরা আল বাকারাহ - ২:১২৬</item>
+        <item>আমল কবুলের করতে চাওয়া [২:১২৭-১২৮]</item>
+        <item>দুনিয়া ও আখিরাতের কল্যান চাওয়া [২:২০১]</item>
+        <item>ধৈর্য, একনিষ্ঠতা এবং বিজয় প্রার্থনা [২:২৫০]</item>
+        <item>সূরা আল বাকারাহ - ২:২৮৫</item>
+        <item>সূরা আল বাকারাহ - ২:২৮৬</item>
+        <item>হেদায়াতের পর অন্তরের বক্রতা হতে মুক্তি চাওয়া [৩:৮-৯]</item>
+        <item>ক্ষমা এবং জাহান্নাম হতে মুক্তি চাওয়া [৩:১৬]</item>
+        <item>সুসন্তান লাভের জন্য দোআ [৩:৩৮]</item>
+        <item>সূরা আলে ইমরান - ৩:৫৩</item>
+        <item>ক্ষমা, একনিষ্ঠতা এবং বিজয় প্রার্থনা [৩:১৪৭]</item>
+        <item>সূরা আলে ইমরান - ৩:১৯১-১৯৪</item>
+        <item>মজলুমের দোআ [৪:৭৫]</item>
+        <item>সূরা আল মায়েদাহ - ৫:২৫</item>
+        <item>সূরা আল মায়েদাহ - ৫:৮৩ - ৮৪</item>
+        <item>সূরা আল মায়েদাহ - ৫:১১৪</item>
+        <item>পাপ করার পর ক্ষমা প্রার্থনা [৭:২৩]</item>
+        <item>যালিম কওমের অন্তর্ভুক্ত না হওয়ার দোআ [৭:৪৭]</item>
+        <item>সূরা আল আরাফ - ৭:৮৯</item>
+        <item>ধৈর্য লাভ এবং মুসলমান হিসেবে মৃত্যু চাওয়া [৭:১২৬]</item>
+        <item>ক্ষমা এবং রহমত প্রার্থনা [৭:১৫১]</item>
+        <item>সূরা আল আরাফ - ৭:১৫৫-১৫৬</item>
+        <item>সূরা আল আরাফ - ৭:১৮৯</item>
+        <item>সূরা ইউনুস - ১০:২২</item>
+        <item>সূরা ইউনুস - ১০:৮৫-৮৬</item>
+        <item>সূরা ইউনুস - ১০:৮৮</item>
+        <item>সূরা হুদ - ১১:৪১</item>
+        <item>সূরা হুদ - ১১:৪৭</item>
+        <item>সূরা ইউসুফ - ১২:২৩</item>
+        <item>সূরা ইউসুফ - ১২:৩৩</item>
+        <item>মুসলমান হিসেবে মৃত্যু এবং নেককারদের অন্তর্ভুক্তি [১২:১০১]</item>
+        <item>সূরা ইবরাহিম - ১৪:৩৫</item>
+        <item>সূরা ইবরাহিম - ১৪:৪০-৪১</item>
+        <item>পিতামাতার জন্য দোআ [১৭:২৪]</item>
+        <item>সূরা আল-ইসরা - ১৭:৮০</item>
+        <item>রহমত এবং সঠিক দিকনির্দেশনার দোআ [১৮:১০]</item>
+        <item>সূরা মারিয়াম - ১৯:৪-৬</item>
+        <item>সূরা মারিয়াম - ১৯:১৮</item>
+        <item>মুখের জড়তা দূর করার দোয়া [২০:২৫-২৮]</item>
+        <item>জ্ঞান বৃদ্ধি চাওয়া [২০:১১৪]</item>
+        <item>সূরা আল আম্বিয়া - ২১:৮৩</item>
+        <item>সূরা আল আম্বিয়া - ২১:৮৭</item>
+        <item>সূরা আল আম্বিয়া - ২১:৮৯</item>
+        <item>সূরা আল আম্বিয়া - ২১:১১২</item>
+        <item>সূরা আল মুমিনূন - ২৩:২৬</item>
+        <item>সূরা আল মুমিনূন - ২৩:২৯</item>
+        <item>যালিমদের অন্তর্ভুক্ত না হওয়ার দোআ [২৩:৯৪]</item>
+        <item>শয়তান হতে আল্লাহর কাছে আশ্রয় প্রার্থনা [২৩:৯৭-৯৮]</item>
+        <item>ক্ষমা এবং রহমত প্রার্থনা [২৩:১০৯]</item>
+        <item>ক্ষমা এবং রহমত প্রার্থনা [২৩:১১৮]</item>
+        <item>জাহান্নামের আজাব হতে আশ্রয় চাওয়া [২৫:৬৫]</item>
+        <item>চক্ষু শীতলকারী স্ত্রী ও সন্তানাদি লাভ আর মুত্তাকীদের নেতা হতে প্রার্থনা [২৫:৭৪]</item>
+        <item>সূরা আশ্-শুআরা - ২৬:৮৩-৮৯</item>
+        <item>সূরা আশ্-শুআরা - ২৬:১১৭-১১৮</item>
+        <item>সূরা আশ্-শুআরা - ২৬:১৬৯</item>
+        <item>শুকরিয়া জ্ঞাপন এবং কবুল আমলের প্রার্থনা [২৭:১৯]</item>
+        <item>সূরা আন-নামল - ২৭:৪৪</item>
+        <item>সূরা আল-কাসাস  - ২৮:১৬-১৭</item>
+        <item>যালিম কওম থেকে আশ্রয় প্রার্থনা [২৮:২১]</item>
+        <item>আল্লাহর অনুগ্রহের মুখাপেক্ষিতা [২৮:২৪]</item>
+        <item>ফাসাদ সৃষ্টিকারী কওমের বিরুদ্ধে সাহায্য প্রার্থনা [২৯:৩০]</item>
+        <item>সুসন্তান লাভের জন্য দোআ [৩৭:১০০]</item>
+        <item>সূরা  ছোয়াদ -  ৩৮:৩৫</item>
+        <item>সূরা  ছোয়াদ -  ৩৮:৪১</item>
+        <item>সূরা গাফির - ৪০:৭-৯</item>
+        <item>সূরা গাফির - ৪০:২৭</item>
+        <item>সূরা গাফির - ৪০:৪৪</item>
+        <item>শুকরিয়া জ্ঞাপন, কবুল আমল এবং সুসন্তান প্রার্থনা [৪৬:১৫]</item>
+        <item>সূরা ক্বামার - ৫৪:১০</item>
+        <item>সূরা আল-হাশর - ৫৯:১০</item>
+        <item>সূরা আল-মুমতাহিনাহ - ৬০:৪</item>
+        <item>সূরা আত-তাহরীম - ৬৬:৮</item>
+        <item>সূরা আত-তাহরীম - ৬৬:১১</item>
+        <item>সূরা নূহ - ৭১:২৬</item>
+        <item>সূরা নূহ - ৭১:২৮</item>
+        <item>লাইলাতুল ক্বদরের দোআ</item>
+        <item>অসুস্থ ব্যক্তির জন্য দোআ</item>
+
+    </string-array>
+
+    <string-array name="subjectfragmentvalues">
+
+        <item>নিত্যদিন</item>
+        <item>যিকির-ঘুম</item>
+        <item>সামাজিক</item>
+        <item>হজ্ব-সিয়াম</item>
+        <item>কুরআন</item>
+        <item>সালাত</item>
+        <item>অনুভূতি</item>
+        <item>ইমান-সুরক্ষা</item>
+        <item>অসুস্থতা</item>
+
+
+    </string-array>
+
+    <string-array name="blessings_serial2">
+
+        <item>১</item>
+        <item>২</item>
+        <item>৩</item>
+        <item>৪</item>
+        <item>৫</item>
+        <item>৬</item>
+        <item>৭</item>
+        <item>৮</item>
+        <item>৯</item>
+        <item>১০</item>
+        <item>১১</item>
+        <item>১২</item>
+        <item>১৩</item>
+        <item>১৪</item>
+        <item>১৫</item>
+        <item>১৬</item>
+        <item>১৭</item>
+        <item>১৮</item>
+        <item>১৯</item>
+        <item>২০</item>
+        <item>২১</item>
+        <item>২২</item>
+        <item>২৩</item>
+        <item>২৪</item>
+        <item>২৫</item>
+        <item>২৬</item>
+        <item>২৭</item>
+        <item>২৮</item>
+        <item>২৯</item>
+        <item>৩০</item>
+        <item>৩১</item>
+        <item>৩২</item>
+        <item>৩৩</item>
+        <item>৩৪</item>
+        <item>৩৫</item>
+        <item>৩৬</item>
+        <item>৩৭</item>
+        <item>৩৮</item>
+        <item>৩৯</item>
+        <item>৪০</item>
+        <item>৪১</item>
+        <item>৪২</item>
+        <item>৪৩</item>
+        <item>৪৪</item>
+        <item>৪৫</item>
+        <item>৪৬</item>
+        <item>৪৭</item>
+        <item>৪৮</item>
+        <item>৪৯</item>
+        <item>৫০</item>
+        <item>৫১</item>
+        <item>৫২</item>
+        <item>৫৩</item>
+        <item>৫৪</item>
+        <item>৫৫</item>
+        <item>৫৬</item>
+        <item>৫৭</item>
+        <item>৫৮</item>
+        <item>৫৯</item>
+        <item>৬০</item>
+        <item>৬১</item>
+        <item>৬২</item>
+        <item>৬৩</item>
+        <item>৬৪</item>
+        <item>৬৫</item>
+        <item>৬৬</item>
+        <item>৬৭</item>
+        <item>৬৮</item>
+        <item>৬৯</item>
+        <item>৭০</item>
+        <item>৭১</item>
+        <item>৭২</item>
+        <item>৭৩</item>
+        <item>৭৪</item>
+        <item>৭৫</item>
+        <item>৭৬</item>
+        <item>৭৭</item>
+        <item>৭৮</item>
+        <item>৭৯</item>
+        <item>৮০</item>
+        <item>৮১</item>
+        <item>৮২</item>
+        <item>৮৩</item>
+        <item>৮৪</item>
+        <item>৮৫</item>
+        <item>৮৬</item>
+        <item>৮৭</item>
+        <item>৮৮</item>
+        <item>৮৯</item>
+        <item>৯০</item>
+        <item>৯১</item>
+        <item>৯২</item>
+        <item>৯৩</item>
+        <item>৯৪</item>
+        <item>৯৫</item>
+        <item>৯৬</item>
+        <item>৯৭</item>
+        <item>৯৮</item>
+        <item>৯৯</item>
+        <item>১০০</item>
+        <item>১০১</item>
+        <item>১০২</item>
+        <item>১০৩</item>
+        <item>১০৪</item>
+        <item>১০৫</item>
+        <item>১০৬</item>
+        <item>১০৭</item>
+        <item>১০৮</item>
+        <item>১০৯</item>
+        <item>১১০</item>
+        <item>১১১</item>
+        <item>১১২</item>
+        <item>১১৩</item>
+        <item>১১৪</item>
+        <item>১১৫</item>
+        <item>১১৬</item>
+        <item>১১৭</item>
+        <item>১১৮</item>
+        <item>১১৯</item>
+        <item>১২০</item>
+        <item>১২১</item>
+        <item>১২২</item>
+        <item>১২৩</item>
+        <item>১২৪</item>
+        <item>১২৫</item>
+        <item>১২৬</item>
+        <item>১২৭</item>
+        <item>১২৮</item>
+        <item>১২৯</item>
+        <item>১৩০</item>
+        <item>১৩১</item>
+        <item>১৩২</item>
+        <item>১৩৩</item>
+        <item>১৩৪</item>
+        <item>১৩৫</item>
+        <item>১৩৬</item>
+        <item>১৩৭</item>
+        <item>১৩৮</item>
+        <item>১৩৯</item>
+        <item>১৪০</item>
+        <item>১৪১</item>
+        <item>১৪২</item>
+        <item>১৪৩</item>
+        <item>১৪৪</item>
+        <item>১৪৫</item>
+        <item>১৪৬</item>
+        <item>১৪৭</item>
+        <item>১৪৮</item>
+        <item>১৪৯</item>
+        <item>১৫০</item>
+        <item>১৫১</item>
+        <item>১৫২</item>
+        <item>১৫৩</item>
+        <item>১৫৪</item>
+        <item>১৫৫</item>
+        <item>১৫৬</item>
+        <item>১৫৭</item>
+        <item>১৫৮</item>
+        <item>১৫৯</item>
+        <item>১৬০</item>
+        <item>১৬১</item>
+        <item>১৬২</item>
+        <item>১৬৩</item>
+        <item>১৬৪</item>
+        <item>১৬৫</item>
+        <item>১৬৬</item>
+        <item>১৬৭</item>
+        <item>১৬৮</item>
+        <item>১৬৯</item>
+        <item>১৭০</item>
+        <item>১৭১</item>
+        <item>১৭২</item>
+        <item>১৭৩</item>
+        <item>১৭৪</item>
+        <item>১৭৫</item>
+        <item>১৭৬</item>
+        <item>১৭৭</item>
+        <item>১৭৮</item>
+        <item>১৭৯</item>
+        <item>১৮০</item>
+        <item>১৮১</item>
+        <item>১৮২</item>
+        <item>১৮৩</item>
+        <item>১৮৪</item>
+        <item>১৮৫</item>
+        <item>১৮৬</item>
+        <item>১৮৭</item>
+        <item>১৮৮</item>
+        <item>১৮৯</item>
+        <item>১৯০</item>
+        <item>১৯১</item>
+        <item>১৯২</item>
+        <item>১৯৩</item>
+        <item>১৯৪</item>
+        <item>১৯৫</item>
+        <item>১৯৬</item>
+        <item>১৯৭</item>
+        <item>১৯৮</item>
+        <item>১৯৯</item>
+        <item>২০০</item>
+        <item>২০১</item>
+        <item>২০২</item>
+        <item>২০৩</item>
+        <item>২০৪</item>
+        <item>২০৫</item>
+        <item>২০৬</item>
+        <item>২০৭</item>
+        <item>২০৮</item>
+        <item>২০৯</item>
+        <item>২১০</item>
+        <item>২১১</item>
+        <item>২১২</item>
+        <item>২১৩</item>
+        <item>২১৪</item>
+        <item>২১৫</item>
+        <item>২১৬</item>
+        <item>২১৭</item>
+        <item>২১৮</item>
+        <item>২১৯</item>
+        <item>২২০</item>
+        <item>২২১</item>
+        <item>২২২</item>
+        <item>২২৩</item>
+        <item>২২৪</item>
+        <item>২২৫</item>
+        <item>২২৬</item>
+        <item>২২৭</item>
+        <item>২২৮</item>
+        <item>২২৯</item>
+        <item>২৩০</item>
+        <item>২৩১</item>
+        <item>২৩২</item>
+        <item>২৩৩</item>
+        <item>২৩৪</item>
+        <item>২৩৫</item>
+        <item>২৩৬</item>
+        <item>২৩৭</item>
+        <item>২৩৮</item>
+        <item>২৩৯</item>
+        <item>২৪০</item>
+        <item>২৪১</item>
+        <item>২৪২</item>
+        <item>২৪৩</item>
+        <item>২৪৪</item>
+        <item>২৪৫</item>
+        <item>২৪৬</item>
+        <item>২৪৭</item>
+        <item>২৪৮</item>
+        <item>২৪৯</item>
+        <item>২৫০</item>
+        <item>২৫০</item>
+        <item>২৫১</item>
+        <item>২৫২</item>
+        <item>২৫৩</item>
+        <item>২৫৪</item>
+        <item>২৫৫</item>
+        <item>২৫৬</item>
+        <item>২৫৭</item>
+        <item>২৫৮</item>
+        <item>২৫৯</item>
+        <item>২৬০</item>
+        <item>২৬১</item>
+        <item>২৬২</item>
+        <item>২৬৩</item>
+        <item>২৬৪</item>
+        <item>২৬৫</item>
+        <item>২৬৬</item>
+        <item>২৬৭</item>
+        <item>২৬৮</item>
+        <item>২৬৯</item>
+        <item>২৭০</item>
+        <item>২৭১</item>
+        <item>২৭২</item>
+        <item>২৭৩</item>
+        <item>২৭৪</item>
+        <item>২৭৫</item>
+        <item>২৭৬</item>
+        <item>২৭৭</item>
+        <item>২৭৮</item>
+        <item>২৭৯</item>
+        <item>২৮০</item>
+        <item>২৮১</item>
+        <item>২৮২</item>
+        <item>২৮৩</item>
+        <item>২৮৪</item>
+        <item>২৮৫</item>
+        <item>২৮৬</item>
+        <item>২৮৭</item>
+        <item>২৮৮</item>
+        <item>২৮৯</item>
+        <item>২৯০</item>
+        <item>২৯১</item>
+        <item>২৯২</item>
+        <item>২৯৩</item>
+        <item>২৯৪</item>
+        <item>২৯৫</item>
+        <item>২৯৬</item>
+        <item>২৯৭</item>
+        <item>২৯৮</item>
+        <item>২৯৯</item>
+        <item>৩০০</item>
+        <item>৩০১</item>
+        <item>৩০২</item>
+        <item>৩০৩</item>
+        <item>৩০৪</item>
+        <item>৩০৫</item>
+        <item>৩০৬</item>
+        <item>৩০৭</item>
+        <item>৩০৮</item>
+        <item>৩০৯</item>
+        <item>৩১০</item>
+        <item>৩১১</item>
+        <item>৩১২</item>
+        <item>৩১৩</item>
+        <item>৩১৪</item>
+        <item>৩১৫</item>
+        <item>৩১৬</item>
+        <item>৩১৭</item>
+        <item>৩১৮</item>
+        <item>৩১৯</item>
+        <item>৩২০</item>
+        <item>৩২১</item>
+        <item>৩২২</item>
+        <item>৩২৩</item>
+        <item>৩২৪</item>
+        <item>৩২৫</item>
+        <item>৩২৬</item>
+        <item>৩২৭</item>
+    </string-array>
+
+
+    <string-array name="dailyvalue">
+        <item>কাপড় পরিধানের দো‘আ</item>
+        <item>নতুন কাপড় পরিধানের দো‘আ</item>
+        <item>অপরকে নতুন কাপড় পরিধান করতে দেখলে তার জন্য দো‘আ #১</item>
+        <item>অপরকে নতুন কাপড় পরিধান করতে দেখলে তার জন্য দো‘আ #২</item>
+        <item>কাপড় খুলে রাখার সময় কী বলবে</item>
+        <item>পায়খানায় প্রবেশের দো‘আ</item>
+        <item>পায়খানা থেকে বের হওয়ার দো‘আ</item>
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #১</item>
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #২</item>
+        <item>ঘরে প্রবেশের সময় যিক্‌র</item>
+        <item>ঋণ মুক্তির জন্য দো‘আ #১</item>
+        <item>ঋণ মুক্তির জন্য দো‘আ #২</item>
+        <item>বায়ূ প্রবাহিত হলে পড়ার দো‘আ #১</item>
+        <item>বায়ূ প্রবাহিত হলে পড়ার দো‘আ #২</item>
+        <item>মেঘের গর্জন শুনলে পড়ার দো‘আ</item>
+        <item>বৃষ্টি চাওয়ার কিছু দো‘আ #১</item>
+        <item>বৃষ্টি চাওয়ার কিছু দো‘আ #২</item>
+        <item>বৃষ্টি চাওয়ার কিছু দো‘আ #৩</item>
+        <item>বৃষ্টি দেখলে দো‘আ</item>
+        <item>বৃষ্টি বর্ষণের পর যিকর</item>
+        <item>অতিবৃষ্টি বন্ধের জন্য কিছু দো‘আ</item>
+        <item>ফলের কলি দেখলে পড়ার দো‘আ</item>
+        <item>কেউ ঋণ দিলে তা পরিশোধের সময় দো‘আ</item>
+        <item>বাহনে আরোহণের দো‘আ</item>
+        <item>সফরের দো‘আ</item>
+        <item>গ্রাম বা শহরে প্রবেশের দো‘আ</item>
+        <item>বাজারে প্রবেশের দো‘আ</item>
+        <item>বাহন হোঁচট খেলে পড়ার দো‘আ</item>
+        <item>মুক্বীম বা অবস্থানকারীদের জন্য মুসাফিরের দো‘আ</item>
+        <item>মুসাফিরের জন্য মুক্বীম বা অবস্থানকারীর দো‘আ #১</item>
+        <item>মুসাফিরের জন্য মুক্বীম বা অবস্থানকারীর দো‘আ #২</item>
+        <item>রাত্রির শেষ প্রহরে মুসাফিরের দো‘আ</item>
+        <item>সফরে বা অন্য অবস্থায় কোনো ঘরে নামলে পড়ার দো‘আ</item>
+        <item>সফর থেকে ফেরার যিক্‌র</item>
+        <item>মোরগের ডাক ও গাধার স্বর অথবা রাতের বেলায় কুকুরের ডাক শুনলে দো‘আ</item>
+    </string-array>
+    <string-array name="zikirvalue">
+        <item>যিক্‌রের ফযীলত</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #১</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #২</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #৩</item>
+        <item>সূরা আল-ইমরান আয়াত ১৯০-২০০</item>
+        <item>সকাল ও বিকালের যিক্‌রের ফযীলত</item>
+        <item>আয়াতুল কুরসি: সূরা আল-বাকারাহ্‌ ২৫৫</item>
+        <item>সবকিছুর (নিরাপত্তার) জন্য যথেষ্ট যে দোআ</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #৪</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #৫</item>
+        <item>সায়্যিদুল ইসতিগফার (ক্ষমা চাওয়ার শ্রেষ্ঠ দোআ)</item>
+        <item>জাহান্নামের আগুন থেকে মুক্তি</item>
+        <item>আল্লাহর নিকট শুকরিয়া আদায়</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #৯</item>
+        <item>দুনিয়া ও আখেরাতের সকল চিন্তাভাবনার জন্য আল্লাহ্ই যথেষ্ট হবেন</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১১</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১২</item>
+        <item>কোনো কিছু তার ক্ষতি করতে পারবে না</item>
+        <item>কিয়ামতের দিনে আল্লাহর সন্তুষ্টি</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১৫</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১৬</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #১৭</item>
+        <item>তার চেয়ে কেউ উৎকৃষ্ট হবে না যে এই দোআ বেশি পরবে</item>
+        <item>দশটি দাসমুক্তির অনুরূপ ও একশত সাওয়াব</item>
+        <item>চারটি কালেমা সারা সকাল ইবাদতের চেয়েও ওজনে ভারী</item>
+        <item>উপকারী জ্ঞান, পবিত্র রিযিক এবং কবুলযোগ্য আমলের দোআ</item>
+        <item>সকাল ও বিকালের যিক্‌রসমূহ #২২</item>
+        <item>বিষধর প্রাণীর ক্ষতি থেকে নিরাপত্তা</item>
+        <item>কিয়ামতের দিন রসুলুল্লাহ (স:)এর সুপারিশ লাভ</item>
+        <item>কুরআনের শেষ তিন সূরা</item>
+        <item>আয়াতুল কুরসি: সূরা আল-বাকারাহ্‌ ২৫৫</item>
+        <item>সূরা বাকারাহ্‌ আয়াত ২৮৫-২৮৬</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৪</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৫</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৬</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৭</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৮</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #৯</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #১০</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #১১</item>
+        <item>ঘুমানোর যিক্‌রসমূহ #১২</item>
+        <item>ফিত্‌রাহের উপর মৃত্যুবরণ করা</item>
+        <item>রাতে যখন পার্শ্ব পরিবর্তন করে তখন পড়ার দো‘আ</item>
+        <item>ঘুমন্ত অবস্থায় ভয় এবং একাকিত্বের অস্বস্তিতে পড়ার দো‘আ</item>
+        <item>খারাপ স্বপ্ন বা দুঃস্বপ্ন দেখে যা করবে</item>
+        <item>উপরে উঠা ও নিচে নামার দো‘আ</item>
+        <item>নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপর দরূদ পাঠের ফযীলত</item>
+        <item>সন্ধায় উপনীত হলে করণীয়</item>
+        <item>তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত</item>
+        <item>ইসমাঈল (আ:) এর সন্তানদের চারজনকে দাসত্ব থেকে মুক্ত করার সমান সওয়াব</item>
+        <item>যিকির যা জবানে সহজ আর মীযানের পাল্লায় ভারী</item>
+        <item>আল্লাহ্‌র নিকট সর্বাধিক প্রিয় বাক্য</item>
+        <item>এক হাজার সওয়াব লেখা অথবা এক হাজার পাপ মুছে ফেলা</item>
+        <item>জান্নাতের একটি খেজুর গাছ</item>
+        <item>জান্নাতের এক রত্নভাণ্ডার</item>
+        <item>তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত #৮</item>
+        <item>তাসবীহ, তাহমীদ, তাহলীল ও তাকবীর-এর ফযীলত #৯</item>
+        <item>সর্বশ্রেষ্ঠ দো‘আ এবং সর্বোত্তম যিক্‌র</item>
+        <item>চিরস্থায়ী নেক আমল</item>
+        <item>কীভাবে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাসবীহ পাঠ করতেন?</item>
+        <item>বিবিধ কল্যাণ ও সামষ্টিক কিছু আদব</item>
+
+    </string-array>
+    <string-array name="socialvalue">
+        <item>সন্তান লাভকারীকে অভিনন্দন ও তার জবাব</item>
+        <item>যা দ্বারা শিশুদের জন্য আশ্রয় প্রার্থনা করা হয়</item>
+        <item>আহারের আয়োজনকারীর জন্য মেহমানের দো‘আ</item>
+        <item>দো‘আর মাধ্যমে খাবার বা পানীয় চাওয়ার ইঙ্গিত করা</item>
+        <item>হাঁচির দো‘আ</item>
+        <item>কাফের ব্যক্তি হাঁচি দিয়ে আলহামদুলিল্লাহ বললে তার জবাবে যা বলা হবে</item>
+        <item>নব বিবাহিতের জন্য দো‘আ</item>
+        <item>বিবাহিত ব্যক্তির দো‘আ এবং বাহন ক্রয়ের পর দো‘আ</item>
+        <item>স্ত্রী-সহবাসের পুর্বের দো‘আ</item>
+        <item>মজলিসে যা বলতে হয়</item>
+        <item>বৈঠকের শেষে কাফ্‌ফারা হিসেবে দোআ</item>
+        <item>কেউ যদি বলে, ‘আল্লাহ আপনাকে ক্ষমা করুন’, তার জন্য দো‘আ</item>
+        <item>কেউ আপনার সাথে সদাচারণ করলে তার জন্য দো‘আ</item>
+        <item>যে ব্যক্তি বলবে, ‘আমি আপনাকে আল্লাহ্‌র জন্য ভালোবাসি’— তার জন্য দো‘আ</item>
+        <item>আপনাকে কেউ তার সম্পদ দান করার জন্য পেশ করলে তার জন্য দো‘আ</item>
+        <item>কেউ যদি বলে, ‘আল্লাহ আপনার উপর বরকত দিন’, তার জন্য দো‘আ</item>
+        <item>সালামের প্রসার</item>
+        <item>কাফের সালাম দিলে কীভাবে জবাব দিবে</item>
+        <item>কোনো মুসলিম অপর মুসলিমকে প্রশংসা করলে যা বলবে</item>
+        <item>কোনো মুসলিমের প্রশংসা করা হলে সে যা বলবে</item>
+    </string-array>
+    <string-array name="hazzfastingvalue">
+
+        <item>নতুন চাঁদ দেখে পড়ার দো‘আ</item>
+        <item>ইফতারের সময় রোযাদারের দো‘আ #১</item>
+        <item>ইফতারের সময় রোযাদারের দো‘আ #২</item>
+        <item>খাওয়ার পূর্বে দো‘আ #১</item>
+        <item>খাওয়ার পূর্বে দো‘আ #২</item>
+        <item>আহার শেষ করার পর দো‘আ #১</item>
+        <item>আহার শেষ করার পর দো‘আ #২</item>
+        <item>কোনো পরিবারের কাছে ইফতার করলে তাদের জন্য দো‘আ</item>
+        <item>রোযাদারের নিকট যদি খাবার উপস্থিত হয়, আর সে রোযা না ভাঙ্গে তখন তার দো‘আ করা</item>
+        <item>রোযাদারকে কেউ গালি দিলে যা বলবে</item>
+        <item>হজ্জ বা উমরায় মুহরিম ব্যক্তি কিভাবে তালবিয়াহ পড়বে</item>
+        <item>হাজরে আসওয়াদের কাছে আসলে তাকবীর বলা</item>
+        <item>রুকনে ইয়ামানী ও হাজরে আসওয়াদের মাঝে দো‘আ</item>
+        <item>সাফা ও মারওয়ায় দাঁড়িয়ে যা পড়বে</item>
+        <item>আরাফাতের দিনে দো‘আ</item>
+        <item>মাশ‘আরুল হারাম তথা মুযদালিফায় যিক্‌র</item>
+        <item>জামরাসমূহে প্রত্যেক কংকর নিক্ষেপকালে তাকবীর বলা</item>
+        <item>পশু যবেহ বা নাহর করার সময় যা বলবে</item>
+        <item>লাইলাতুল ক্বদরের দোআ</item>
+
+    </string-array>
+    <string-array name="quranvalue">
+        <item>সূরা আল-ফাতিহা - ১:১-৭</item>
+        <item>জাহিলিয়াত থেকে মুক্তি [২:৬৭]</item>
+        <item>সূরা আল বাকারাহ - ২:১২৬</item>
+        <item>আমল কবুলের করতে চাওয়া [২:১২৭-১২৮]</item>
+        <item>দুনিয়া ও আখিরাতের কল্যান চাওয়া [২:২০১]</item>
+        <item>ধৈর্য, একনিষ্ঠতা এবং বিজয় প্রার্থনা [২:২৫০]</item>
+        <item>সূরা আল বাকারাহ - ২:২৮৫</item>
+        <item>সূরা আল বাকারাহ - ২:২৮৬</item>
+        <item>হেদায়াতের পর অন্তরের বক্রতা হতে মুক্তি চাওয়া [৩:৮-৯]</item>
+        <item>ক্ষমা এবং জাহান্নাম হতে মুক্তি চাওয়া [৩:১৬]</item>
+        <item>সুসন্তান লাভের জন্য দোআ [৩:৩৮]</item>
+        <item>সূরা আলে ইমরান - ৩:৫৩</item>
+        <item>ক্ষমা, একনিষ্ঠতা এবং বিজয় প্রার্থনা [৩:১৪৭]</item>
+        <item>সূরা আলে ইমরান - ৩:১৯১-১৯৪</item>
+        <item>মজলুমের দোআ [৪:৭৫]</item>
+        <item>সূরা আল মায়েদাহ - ৫:২৫</item>
+        <item>সূরা আল মায়েদাহ - ৫:৮৩ - ৮৪</item>
+        <item>সূরা আল মায়েদাহ - ৫:১১৪</item>
+        <item>পাপ করার পর ক্ষমা প্রার্থনা [৭:২৩]</item>
+        <item>যালিম কওমের অন্তর্ভুক্ত না হওয়ার দোআ [৭:৪৭]</item>
+        <item>সূরা আল আরাফ - ৭:৮৯</item>
+        <item>ধৈর্য লাভ এবং মুসলমান হিসেবে মৃত্যু চাওয়া [৭:১২৬]</item>
+        <item>ক্ষমা এবং রহমত প্রার্থনা [৭:১৫১]</item>
+        <item>সূরা আল আরাফ - ৭:১৫৫-১৫৬</item>
+        <item>সূরা আল আরাফ - ৭:১৮৯</item>
+        <item>সূরা ইউনুস - ১০:২২</item>
+        <item>সূরা ইউনুস - ১০:৮৫-৮৬</item>
+        <item>সূরা ইউনুস - ১০:৮৮</item>
+        <item>সূরা হুদ - ১১:৪১</item>
+        <item>সূরা হুদ - ১১:৪৭</item>
+        <item>সূরা ইউসুফ - ১২:২৩</item>
+        <item>সূরা ইউসুফ - ১২:৩৩</item>
+        <item>মুসলমান হিসেবে মৃত্যু এবং নেককারদের অন্তর্ভুক্তি [১২:১০১]</item>
+        <item>সূরা ইবরাহিম - ১৪:৩৫</item>
+        <item>সূরা ইবরাহিম - ১৪:৪০-৪১</item>
+        <item>পিতামাতার জন্য দোআ [১৭:২৪]</item>
+        <item>সূরা আল-ইসরা - ১৭:৮০</item>
+        <item>রহমত এবং সঠিক দিকনির্দেশনার দোআ [১৮:১০]</item>
+        <item>সূরা মারিয়াম - ১৯:৪-৬</item>
+        <item>সূরা মারিয়াম - ১৯:১৮</item>
+        <item>মুখের জড়তা দূর করার দোয়া [২০:২৫-২৮]</item>
+        <item>জ্ঞান বৃদ্ধি চাওয়া [২০:১১৪]</item>
+        <item>সূরা আল আম্বিয়া - ২১:৮৩</item>
+        <item>সূরা আল আম্বিয়া - ২১:৮৭</item>
+        <item>সূরা আল আম্বিয়া - ২১:৮৯</item>
+        <item>সূরা আল আম্বিয়া - ২১:১১২</item>
+        <item>সূরা আল মুমিনূন - ২৩:২৬</item>
+        <item>সূরা আল মুমিনূন - ২৩:২৯</item>
+        <item>যালিমদের অন্তর্ভুক্ত না হওয়ার দোআ [২৩:৯৪]</item>
+        <item>শয়তান হতে আল্লাহর কাছে আশ্রয় প্রার্থনা [২৩:৯৭-৯৮]</item>
+        <item>ক্ষমা এবং রহমত প্রার্থনা [২৩:১০৯]</item>
+        <item>ক্ষমা এবং রহমত প্রার্থনা [২৩:১১৮]</item>
+        <item>জাহান্নামের আজাব হতে আশ্রয় চাওয়া [২৫:৬৫]</item>
+        <item>চক্ষু শীতলকারী স্ত্রী ও সন্তানাদি লাভ আর মুত্তাকীদের নেতা হতে প্রার্থনা [২৫:৭৪]</item>
+        <item>সূরা আশ্-শুআরা - ২৬:৮৩-৮৯</item>
+        <item>সূরা আশ্-শুআরা - ২৬:১১৭-১১৮</item>
+        <item>সূরা আশ্-শুআরা - ২৬:১৬৯</item>
+        <item>শুকরিয়া জ্ঞাপন এবং কবুল আমলের প্রার্থনা [২৭:১৯]</item>
+        <item>সূরা আন-নামল - ২৭:৪৪</item>
+        <item>সূরা আল-কাসাস  - ২৮:১৬-১৭</item>
+        <item>যালিম কওম থেকে আশ্রয় প্রার্থনা [২৮:২১]</item>
+        <item>আল্লাহর অনুগ্রহের মুখাপেক্ষিতা [২৮:২৪]</item>
+        <item>ফাসাদ সৃষ্টিকারী কওমের বিরুদ্ধে সাহায্য প্রার্থনা [২৯:৩০]</item>
+        <item>সুসন্তান লাভের জন্য দোআ [৩৭:১০০]</item>
+        <item>সূরা  ছোয়াদ -  ৩৮:৩৫</item>
+        <item>সূরা  ছোয়াদ -  ৩৮:৪১</item>
+        <item>সূরা গাফির - ৪০:৭-৯</item>
+        <item>সূরা গাফির - ৪০:২৭</item>
+        <item>সূরা গাফির - ৪০:৪৪</item>
+        <item>শুকরিয়া জ্ঞাপন, কবুল আমল এবং সুসন্তান প্রার্থনা [৪৬:১৫]</item>
+        <item>সূরা ক্বামার - ৫৪:১০</item>
+        <item>সূরা আল-হাশর - ৫৯:১০</item>
+        <item>সূরা আল-মুমতাহিনাহ - ৬০:৪</item>
+        <item>সূরা আত-তাহরীম - ৬৬:৮</item>
+        <item>সূরা আত-তাহরীম - ৬৬:১১</item>
+        <item>সূরা নূহ - ৭১:২৬</item>
+        <item>সূরা নূহ - ৭১:২৮</item>
+    </string-array>
+    <string-array name="prayervalue">
+        <item>ওযুর পূর্বে যিক্‌র</item>
+        <item>ওযু শেষ করার পর যিক্‌র #১</item>
+        <item>ওযু শেষ করার পর যিক্‌র #২</item>
+        <item>ওযু শেষ করার পর যিক্‌র #৩</item>
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #১</item>
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #২</item>
+        <item>ঘরে প্রবেশের সময় যিক্‌র</item>
+        <item>মসজিদে যাওয়ার সময়ে পড়ার দো‘আ</item>
+        <item>মসজিদে প্রবেশের দো‘আ</item>
+        <item>মসজিদ থেকে বের হওয়ার দো‘আ</item>
+        <item>আযানের যিক্‌রসমূহ</item>
+        <item>সালাতের শুরুতে দো‘আ #১</item>
+        <item>সালাতের শুরুতে দো‘আ #২</item>
+        <item>সালাতের শুরুতে দো‘আ #৩</item>
+        <item>সালাতের শুরুতে দো‘আ #৪</item>
+        <item>সালাতের শুরুতে দো‘আ #৫</item>
+        <item>সালাতের শুরুতে দো‘আ #৬</item>
+        <item>রুকূ‘র দো‘আ #১</item>
+        <item>রুকূ‘র দো‘আ #২</item>
+        <item>রুকূ‘র দো‘আ #৩</item>
+        <item>রুকূ‘র দো‘আ #৪</item>
+        <item>রুকূ‘র দো‘আ #৫</item>
+        <item>রুকু থেকে উঠার দো‘আ #১</item>
+        <item>রুকু থেকে উঠার দো‘আ #২</item>
+        <item>রুকু থেকে উঠার দো‘আ #৩</item>
+        <item>সিজদার দো‘আ #১</item>
+        <item>সিজদার দো‘আ #২</item>
+        <item>সিজদার দো‘আ #৩</item>
+        <item>সিজদার দো‘আ #৪</item>
+        <item>সিজদার দো‘আ #৫</item>
+        <item>সিজদার দো‘আ #৬</item>
+        <item>সিজদার দো‘আ #৭</item>
+        <item>দুই সিজদার মধ্যবর্তী বৈঠকের দো‘আ #১</item>
+        <item>দুই সিজদার মধ্যবর্তী বৈঠকের দো‘আ #২</item>
+        <item>সিজদার আয়াত তেলাওয়াতের পর সিজদায় দো‘আ #১</item>
+        <item>সিজদার আয়াত তেলাওয়াতের পর সিজদায় দো‘আ #২</item>
+        <item>তাশাহ্‌হুদ</item>
+        <item>তাশাহ্‌হুদের পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপর দরুদ পাঠ #১</item>
+        <item>তাশাহ্‌হুদের পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপর দরুদ পাঠ #২</item>
+        <item>কবর ও জাহান্নামের আযাব এবং জীবন, মৃত্যু ও দাজ্জালের ফিতনা থেকে আশ্রয় চাওয়ার দোআ</item>
+        <item>কবর ও জাহান্নামের আযাব, জীবন, মৃত্যু ও দাজ্জালের ফিতনা এবং গুনাহ ও ঋণ থেকে আশ্রয় চাওয়ার দোআ</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ </item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #১</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #২</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #৩</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #৪</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #৫</item>
+        <item>সালামের আগে শেষ তাশাহহুদের পরের দো‘আ #৬</item>
+        <item>কৃপণতা, কাপুরুষতা, বার্ধক্য এবং ফিতনা থেকে আশ্রয় চাওয়ার দোআ</item>
+        <item>জাহান্নাম থেকে আশ্রয় এবং জান্নাত চাওয়ার দোআ</item>
+        <item>সালাম ফিরানোর পর যিকরসমূহ #১</item>
+        <item>সালাম ফিরানোর পর যিকরসমূহ #২</item>
+        <item>সালাম ফিরানোর পর যিকরসমূহ #৩</item>
+        <item>পাপরাশি ক্ষমা করে দেওয়া হয়, যদিও তা সমুদ্রের ফেনারাশির মত হয়</item>
+        <item>কুরআনের শেষ তিন সূরা</item>
+        <item>আয়াতুল কুরসি: সূরা আল-বাকারাহ্‌ ২৫৫</item>
+        <item>সালাম ফিরানোর পর যিকরসমূহ #৭</item>
+        <item>উপকারী জ্ঞান, পবিত্র রিযিক এবং কবুলযোগ্য আমলের দোআ</item>
+        <item>বিত্‌রের কুনুতের দো‘আ #১</item>
+        <item>বিত্‌রের কুনুতের দো‘আ #২</item>
+        <item>বিত্‌রের কুনুতের দো‘আ #৩</item>
+        <item>বিত্‌রের নামায থেকে সালাম ফিরানোর পরের যিক্‌র</item>
+
+    </string-array>
+    <string-array name="feelingsvalue">
+
+        <item>দুঃখ ও দুশ্চিন্তার সময় পড়ার দো‘আ #১</item>
+        <item>দুঃখ ও দুশ্চিন্তার সময় পড়ার দো‘আ #২</item>
+        <item>দুর্দশাগ্রস্ত ব্যক্তির দো‘আ #১</item>
+        <item>দুর্দশাগ্রস্ত ব্যক্তির দো‘আ #২</item>
+        <item>দুর্দশাগ্রস্ত ব্যক্তির দো‘আ #৩</item>
+        <item>দুর্দশাগ্রস্ত ব্যক্তির দো‘আ #৪</item>
+        <item>কঠিন কাজে পতিত ব্যক্তির দো‘আ</item>
+        <item>যখন অনাকাঙ্খিত কিছু ঘটে, বা যা করতে চায় তাতে বাধাপ্রাপ্ত হয়, তখন পড়ার দো‘আ</item>
+        <item>কোনো মুসিবতে পতিত ব্যক্তির দো‘আ</item>
+        <item>ক্রোধ দমনের দো‘আ</item>
+        <item>বিপন্ন লোক দেখলে পড়ার দো‘আ</item>
+        <item>আনন্দদায়ক অথবা অপছন্দনীয় কিছুর সম্মুখীন হলে যা বলবে</item>
+        <item>যাকে আপনি গালি দিয়েছেন তার জন্য দো‘আ</item>
+        <item>আশ্চর্যজনক ও আনন্দজনক বিষয়ের পর দো‘আ</item>
+        <item>আনন্দদায়ক কোনো সংবাদ আসলে যা করবে</item>
+        <item>ভীত অবস্থায় যা বলবে</item>
+
+
+    </string-array>
+    <string-array name="imanValue">
+        <item>ইসতিখারার সালাতের দো‘আ</item>
+        <item>শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দো‘আ #১</item>
+        <item>শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দো‘আ #২</item>
+        <item>শত্রু এবং শক্তিধর ব্যক্তির সাক্ষাতকালে দো‘আ #৩</item>
+        <item>শাসকের অত্যাচারের ভয় করলে পড়ার দো‘আ #১</item>
+        <item>শাসকের অত্যাচারের ভয় করলে পড়ার দো‘আ #২</item>
+        <item>শত্রুর উপর বদ-দো‘আ</item>
+        <item>কোনো সম্প্রদায়কে ভয় করলে যা বলবে</item>
+        <item>ঈমানের মধ্যে সন্দেহে পতিত ব্যক্তির দো‘আ #১</item>
+        <item>ঈমানের মধ্যে সন্দেহে পতিত ব্যক্তির দো‘আ #২</item>
+        <item>সালাতে ও কিরাআতে শয়তানের কুমন্ত্রণায় পতিত ব্যক্তির দো‘আ</item>
+        <item>পাপ করে ফেললে যা বলবে এবং যা করবে</item>
+        <item>শয়তান ও তার কুমন্ত্রণা দূর করার দো‘আ</item>
+        <item>আল্লাহ যা দ্বারা দাজ্জাল থেকে হেফাযত করবেন</item>
+        <item>শির্কের ভয়ে দো‘আ</item>
+        <item>অশুভ লক্ষণ গ্রহণকে অপছন্দ করে দো‘আ</item>
+        <item>কোনো কিছুর উপর নিজের চোখ লাগার ভয় থাকলে দো‘আ</item>
+        <item>দুষ্ট শয়তানদের ষড়যন্ত্র প্রতিহত করতে যা বলবে</item>
+        <item>ক্ষমা প্রার্থনা ও তাওবা করা</item>
+
+    </string-array>
+    <string-array name="illnessValue">
+
+        <item>রোগী দেখতে যাওয়ার ফযিলত</item>
+        <item>রোগী দেখতে গিয়ে তার জন্য দো‘আ #১</item>
+        <item>রোগী দেখতে গিয়ে তার জন্য দো‘আ #২</item>
+        <item>জীবনের আশা ছেড়ে দেওয়া রোগীর দো‘আ #১</item>
+        <item>জীবনের আশা ছেড়ে দেওয়া রোগীর দো‘আ #২</item>
+        <item>জীবনের আশা ছেড়ে দেওয়া রোগীর দো‘আ #৩</item>
+        <item>মরণাপন্ন ব্যক্তিকে তালক্বীন (কালেমা স্মরণ করিয়ে দেওয়া)</item>
+        <item>মৃত ব্যক্তির চোখ বন্ধ করানোর দো‘আ</item>
+        <item>মৃত ব্যক্তির জন্য জানাযার সালাতে দো‘আ #১</item>
+        <item>মৃত ব্যক্তির জন্য জানাযার সালাতে দো‘আ #২</item>
+        <item>মৃত ব্যক্তির জন্য জানাযার সালাতে দো‘আ #৩</item>
+        <item>মৃত ব্যক্তির জন্য জানাযার সালাতে দো‘আ #৪</item>
+        <item>নাবালক শিশুদের জন্য জানাযার সালাতে দো‘আ #১</item>
+        <item>নাবালক শিশুদের জন্য জানাযার সালাতে দো‘আ #২</item>
+        <item>নাবালক শিশুদের জন্য জানাযার সালাতে দো‘আ #৩</item>
+        <item>শোকার্তদের সান্ত্বনা দেওয়ার দো‘আ #১</item>
+        <item>শোকার্তদের সান্ত্বনা দেওয়ার দো‘আ #২</item>
+        <item>মৃতকে কবরে প্রবেশ করানোর দো‘আ</item>
+        <item>মৃতকে দাফন করার পর দো‘আ</item>
+        <item>কবর যিয়ারতের দো‘আ</item>
+        <item>শরীরে কোনো ব্যথা অনুভব করলে যা করবে ও বলবে</item>
+        <item>অসুস্থ ব্যক্তির জন্য দোআ</item>
+
+
+    </string-array>
+
+
+    <string-array name="socialserial">
+        <item>১৩৮</item>
+        <item>১৩৯</item>
+        <item>১৭৭</item>
+        <item>১৭৮</item>
+        <item>১৮৩</item>
+        <item>১৮৪</item>
+        <item>১৮৫</item>
+        <item>১৮৬</item>
+        <item>১৮৭</item>
+        <item>১৯০</item>
+        <item>১৯১</item>
+        <item>১৯২</item>
+        <item>১৯৩</item>
+        <item>১৯৫</item>
+        <item>১৯৬</item>
+        <item>১৯৯</item>
+        <item>২১৫</item>
+        <item>২১৬</item>
+        <item>২২০</item>
+        <item>২২১</item>
+
+    </string-array>
+    <string-array name="zikirserial">
+        <item>১</item>
+        <item>২</item>
+        <item>৩</item>
+        <item>৪</item>
+        <item>৫</item>
+        <item>৭২</item>
+        <item>৭৩</item>
+        <item>৭৪</item>
+        <item>৭৫</item>
+        <item>৭৬</item>
+        <item>৭৭</item>
+        <item>৭৮</item>
+        <item>৭৯</item>
+        <item>৮০</item>
+        <item>৮১</item>
+        <item>৮২</item>
+        <item>৮৩</item>
+        <item>৮৪</item>
+        <item>৮৫</item>
+        <item>৮৬</item>
+        <item>৮৭</item>
+        <item>৮৮</item>
+        <item>৮৯</item>
+        <item>৯০</item>
+        <item>৯১</item>
+        <item>৯২</item>
+        <item>৯৩</item>
+        <item>৯৪</item>
+        <item>৯৫</item>
+        <item>৯৬</item>
+        <item>৯৭</item>
+        <item>৯৮</item>
+        <item>৯৯</item>
+        <item>১০০</item>
+        <item>১০১</item>
+        <item>১০২</item>
+        <item>১০৩</item>
+        <item>১০৪</item>
+        <item>১০৫</item>
+        <item>১০৬</item>
+        <item>১০৭</item>
+        <item>১০৮</item>
+        <item>১০৯</item>
+        <item>১১০</item>
+        <item>১১১</item>
+        <item>২০৯</item>
+        <item>২১৪</item>
+        <item>২১৮</item>
+        <item>২৩৭</item>
+        <item>২৩৮</item>
+        <item>২৩৯</item>
+        <item>২৪০</item>
+        <item>২৪১</item>
+        <item>২৪২</item>
+        <item>২৪৩</item>
+        <item>২৪৪</item>
+        <item>২৪৫</item>
+        <item>২৪৬</item>
+        <item>২৪৭</item>
+        <item>২৪৮</item>
+        <item>২৪৯</item>
+
+    </string-array>
+    <string-array name="dailyserial">
+        <item>৬</item>
+        <item>৭</item>
+        <item>৮</item>
+        <item>৯</item>
+        <item>১০</item>
+        <item>১১</item>
+        <item>১২</item>
+        <item>১৭</item>
+        <item>১৮</item>
+        <item>১৯</item>
+        <item>১৩১</item>
+        <item>১৩২</item>
+        <item>১৬১</item>
+        <item>১৬২</item>
+        <item>১৬৩</item>
+        <item>১৬৪</item>
+        <item>১৬৫</item>
+        <item>১৬৬</item>
+        <item>১৬৭</item>
+        <item>১৬৮</item>
+        <item>১৬৯</item>
+        <item>১৮২</item>
+        <item>১৯৭</item>
+        <item>২০১</item>
+        <item>২০২</item>
+        <item>২০৩</item>
+        <item>২০৪</item>
+        <item>২০৫</item>
+        <item>২০৬</item>
+        <item>২০৭</item>
+        <item>২০৮</item>
+        <item>২১০</item>
+        <item>২১১</item>
+        <item>২১২</item>
+        <item>২১৭</item>
+    </string-array>
+    <string-array name="hazzfastingserial">
+        <item>১৭০</item>
+        <item>১৭১</item>
+        <item>১৭২</item>
+        <item>১৭৩</item>
+        <item>১৭৪</item>
+        <item>১৭৫</item>
+        <item>১৭৬</item>
+        <item>১৭৯</item>
+        <item>১৮০</item>
+        <item>১৮১</item>
+        <item>২২২</item>
+        <item>২২৩</item>
+        <item>২২৪</item>
+        <item>২২৫</item>
+        <item>২২৬</item>
+        <item>২২৭</item>
+        <item>২২৮</item>
+        <item>২৩৪</item>
+        <item>৩২৭</item>
+    </string-array>
+    <string-array name="quranserial">
+        <item>২৫০</item>
+        <item>২৫১</item>
+        <item>২৫২</item>
+        <item>২৫৩</item>
+        <item>২৫৪</item>
+        <item>২৫৫</item>
+        <item>২৫৬</item>
+        <item>২৫৭</item>
+        <item>২৫৮</item>
+        <item>২৫৯</item>
+        <item>২৬০</item>
+        <item>২৬১</item>
+        <item>২৬২</item>
+        <item>২৬৩</item>
+        <item>২৬৪</item>
+        <item>২৬৫</item>
+        <item>২৬৬</item>
+        <item>২৬৭</item>
+        <item>২৬৮</item>
+        <item>২৬৯</item>
+        <item>২৭০</item>
+        <item>২৭১</item>
+        <item>২৭২</item>
+        <item>২৭৩</item>
+        <item>২৭৪</item>
+        <item>২৭৫</item>
+        <item>২৭৬</item>
+        <item>২৭৭</item>
+        <item>২৭৮</item>
+        <item>২৭৯</item>
+        <item>২৮০</item>
+        <item>২৮১</item>
+        <item>২৮২</item>
+        <item>২৮৩</item>
+        <item>২৮৪</item>
+        <item>২৮৫</item>
+        <item>২৮৬</item>
+        <item>২৮৭</item>
+        <item>২৮৮</item>
+        <item>২৮৯</item>
+        <item>২৯০</item>
+        <item>২৯১</item>
+        <item>২৯২</item>
+        <item>২৯৩</item>
+        <item>২৯৪</item>
+        <item>২৯৫</item>
+        <item>২৯৬</item>
+        <item>২৯৭</item>
+        <item>২৯৮</item>
+        <item>২৯৯</item>
+        <item>৩০০</item>
+        <item>৩০১</item>
+        <item>৩০২</item>
+        <item>৩০৩</item>
+        <item>৩০৪</item>
+        <item>৩০৫</item>
+        <item>৩০৬</item>
+        <item>৩০৭</item>
+        <item>৩০৮</item>
+        <item>৩০৯</item>
+        <item>৩১০</item>
+        <item>৩১১</item>
+        <item>৩১২</item>
+        <item>৩১৩</item>
+        <item>৩১৪</item>
+        <item>৩১৫</item>
+        <item>৩১৬</item>
+        <item>৩১৭</item>
+        <item>৩১৮</item>
+        <item>৩১৯</item>
+        <item>৩২০</item>
+        <item>৩২১</item>
+        <item>৩২২</item>
+        <item>৩২৩</item>
+        <item>৩২৪</item>
+        <item>৩২৫</item>
+        <item>৩২৬</item>
+    </string-array>
+    <string-array name="quranchangeintent">
+
+        <item>250</item>
+        <item>251</item>
+        <item>252</item>
+        <item>253</item>
+        <item>254</item>
+        <item>255</item>
+        <item>256</item>
+        <item>257</item>
+        <item>258</item>
+        <item>259</item>
+        <item>260</item>
+        <item>261</item>
+        <item>262</item>
+        <item>263</item>
+        <item>264</item>
+        <item>265</item>
+        <item>266</item>
+        <item>267</item>
+        <item>268</item>
+        <item>269</item>
+        <item>270</item>
+        <item>271</item>
+        <item>272</item>
+        <item>273</item>
+        <item>274</item>
+        <item>275</item>
+        <item>276</item>
+        <item>277</item>
+        <item>278</item>
+        <item>279</item>
+        <item>280</item>
+        <item>281</item>
+        <item>282</item>
+        <item>283</item>
+        <item>284</item>
+        <item>285</item>
+        <item>286</item>
+        <item>287</item>
+        <item>288</item>
+        <item>289</item>
+        <item>290</item>
+        <item>291</item>
+        <item>292</item>
+        <item>293</item>
+        <item>294</item>
+        <item>295</item>
+        <item>296</item>
+        <item>297</item>
+        <item>298</item>
+        <item>299</item>
+        <item>300</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>307</item>
+        <item>308</item>
+        <item>309</item>
+        <item>310</item>
+        <item>311</item>
+        <item>312</item>
+        <item>313</item>
+        <item>314</item>
+        <item>315</item>
+        <item>316</item>
+        <item>317</item>
+        <item>318</item>
+        <item>319</item>
+        <item>320</item>
+        <item>321</item>
+        <item>322</item>
+        <item>323</item>
+        <item>324</item>
+        <item>325</item>
+        <item>326</item>
+
+    </string-array>
+    <string-array name="prayerseiral">
+        <item>১৩</item>
+        <item>১৪</item>
+        <item>১৫</item>
+        <item>১৬</item>
+        <item>১৭</item>
+        <item>১৮</item>
+        <item>১৯</item>
+        <item>২০</item>
+        <item>২১</item>
+        <item>২২</item>
+        <item>২৩</item>
+        <item>২৪</item>
+        <item>২৫</item>
+        <item>২৬</item>
+        <item>২৭</item>
+        <item>২৮</item>
+        <item>২৯</item>
+        <item>৩০</item>
+        <item>৩১</item>
+        <item>৩২</item>
+        <item>৩৩</item>
+        <item>৩৪</item>
+        <item>৩৫</item>
+        <item>৩৬</item>
+        <item>৩৭</item>
+        <item>৩৮</item>
+        <item>৩৯</item>
+        <item>৪০</item>
+        <item>৪১</item>
+        <item>৪২</item>
+        <item>৪৩</item>
+        <item>৪৪</item>
+        <item>৪৫</item>
+        <item>৪৬</item>
+        <item>৪৭</item>
+        <item>৪৮</item>
+        <item>৪৯</item>
+        <item>৫০</item>
+        <item>৫১</item>
+        <item>৫২</item>
+        <item>৫৩</item>
+        <item>৫৪</item>
+        <item>৫৫</item>
+        <item>৫৬</item>
+        <item>৫৭</item>
+        <item>৫৮</item>
+        <item>৫৯</item>
+        <item>৬০</item>
+        <item>৬১</item>
+        <item>৬২</item>
+        <item>৬৩</item>
+        <item>৬৪</item>
+        <item>৬৫</item>
+        <item>৬৬</item>
+        <item>৬৭</item>
+        <item>৬৮</item>
+        <item>৬৯</item>
+        <item>৭০</item>
+        <item>১১২</item>
+        <item>১১৩</item>
+        <item>১১৪</item>
+        <item>১১৫</item>
+
+    </string-array>
+    <string-array name="prayerchangeIntent">
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>112</item>
+        <item>113</item>
+        <item>114</item>
+        <item>115</item>
+
+
+    </string-array>
+    <string-array name="feelingsserial">
+        <item>১১৬</item>
+        <item>১১৭</item>
+        <item>১১৮</item>
+        <item>১১৯</item>
+        <item>১২০</item>
+        <item>১২১</item>
+        <item>১৩৪</item>
+        <item>১৩৭</item>
+        <item>১৪৭</item>
+        <item>১৮৮</item>
+        <item>১৮৯</item>
+        <item>২১৩</item>
+        <item>২১৯</item>
+        <item>২২৯</item>
+        <item>২৩০</item>
+        <item>২৩৩</item>
+    </string-array>
+    <string-array name="feelingschangeIntent">
+        <item>116</item>
+        <item>117</item>
+        <item>118</item>
+        <item>119</item>
+        <item>120</item>
+        <item>121</item>
+        <item>134</item>
+        <item>137</item>
+        <item>147</item>
+        <item>188</item>
+        <item>189</item>
+        <item>213</item>
+        <item>219</item>
+        <item>229</item>
+        <item>230</item>
+        <item>233</item>
+    </string-array>
+    <string-array name="imanserial">
+        <item>৭১</item>
+        <item>১২২</item>
+        <item>১২৩</item>
+        <item>১২৪</item>
+        <item>১২৫</item>
+        <item>১২৬</item>
+        <item>১২৭</item>
+        <item>১২৮</item>
+        <item>১২৯</item>
+        <item>১৩০</item>
+        <item>১৩৩</item>
+        <item>১৩৫</item>
+        <item>১৩৬</item>
+        <item>১৯৪</item>
+        <item>১৯৮</item>
+        <item>২০০</item>
+        <item>২৩২</item>
+        <item>২৩৫</item>
+        <item>২৩৬</item>
+    </string-array>
+    <string-array name="imanchangeIntent">
+        <item>71</item>
+        <item>122</item>
+        <item>123</item>
+        <item>124</item>
+        <item>125</item>
+        <item>126</item>
+        <item>127</item>
+        <item>128</item>
+        <item>129</item>
+        <item>130</item>
+        <item>133</item>
+        <item>135</item>
+        <item>136</item>
+        <item>194</item>
+        <item>198</item>
+        <item>200</item>
+        <item>232</item>
+        <item>235</item>
+        <item>236</item>
+    </string-array>
+    <string-array name="illnessserial">
+        <item>১৪০</item>
+        <item>১৪১</item>
+        <item>১৪২</item>
+        <item>১৪৩</item>
+        <item>১৪৪</item>
+        <item>১৪৫</item>
+        <item>১৪৬</item>
+        <item>১৪৮</item>
+        <item>১৪৯</item>
+        <item>১৫০</item>
+        <item>১৫১</item>
+        <item>১৫২</item>
+        <item>১৫৩</item>
+        <item>১৫৪</item>
+        <item>১৫৫</item>
+        <item>১৫৬</item>
+        <item>১৫৭</item>
+        <item>১৫৮</item>
+        <item>১৫৯</item>
+        <item>১৬০</item>
+        <item>২৩১</item>
+        <item>৩২৮</item>
+    </string-array>
+    <string-array name="illnessChangeIntent">
+        <item>140</item>
+        <item>141</item>
+        <item>142</item>
+        <item>143</item>
+        <item>144</item>
+        <item>145</item>
+        <item>146</item>
+        <item>148</item>
+        <item>149</item>
+        <item>150</item>
+        <item>151</item>
+        <item>152</item>
+        <item>153</item>
+        <item>154</item>
+        <item>155</item>
+        <item>156</item>
+        <item>157</item>
+        <item>158</item>
+        <item>159</item>
+        <item>160</item>
+        <item>231</item>
+        <item>328</item>
+    </string-array>
+    <string-array name="blessings">
+        <item>যিক্‌রের ফযীলত</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ </item>
+        <item>কাপড় পরিধানের দো‘আ</item>
+        <item>নতুন কাপড় পরিধানের দো‘আ</item>
+        <item>অপরকে নতুন কাপড় পরিধান করতে দেখলে তার জন্য দো‘আ</item>
+        <item>কাপড় খুলে রাখার সময় কী বলবে</item>
+        <item>পায়খানায় প্রবেশের দো‘আ</item>
+        <item>পায়খানা থেকে বের হওয়ার দো‘আ</item>
+        <item>ওযুর পূর্বে যিক্‌র</item>
+        <item>ওযু শেষ করার পর যিক্‌র</item>
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র</item>
+        <item>ঘরে প্রবেশের সময় যিক্‌র</item>
+        <item>মসজিদে যাওয়ার সময়ে পড়ার দো‘আ</item>
+        <item>মসজিদে প্রবেশের দো‘আ</item>
+        <item>মসজিদ থেকে বের হওয়ার দো‘আ</item>
+        <item>আযানের যিক্‌রসমূহ</item>
+        <item>সালাতের শুরুতে দো‘আ</item>
+    </string-array>
+    <string-array name="blessings_serial">
+        <item>১</item>
+        <item>২</item>
+        <item>৩</item>
+        <item>৪</item>
+        <item>৫</item>
+        <item>৬</item>
+        <item>৭</item>
+        <item>৮</item>
+        <item>৯</item>
+        <item>১০</item>
+        <item>১১</item>
+        <item>১২</item>
+        <item>১৩</item>
+        <item>১৪</item>
+        <item>১৫</item>
+        <item>১৬</item>
+        <item>১৭</item>
+    </string-array>
+    <string-array name="second_parent">
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #১</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #২</item>
+        <item>ঘুম থেকে জেগে উঠার সময়ের যিক্‌রসমূহ #৩</item>
+    </string-array>
+    <string-array name="fifth_parent">
+        <item>অপরকে নতুন কাপড় পরিধান করতে দেখলে তার জন্য দো‘আ #১</item>
+        <item>অপরকে নতুন কাপড় পরিধান করতে দেখলে তার জন্য দো‘আ #২</item>
+    </string-array>
+    <string-array name="ten_parent">
+        <item>ওযু শেষ করার পর যিক্‌র #১</item>
+        <item>ওযু শেষ করার পর যিক্‌র #২</item>
+        <item>ওযু শেষ করার পর যিক্‌র #৩</item>
+    </string-array>
+    <string-array name="eleven_parent">
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #১</item>
+        <item>বাড়ি থেকে বের হওয়ার সময়ের যিক্‌র #২</item>
+    </string-array>
+    <string-array name="saventeen_parent">
+        <item>সালাতের শুরুতে দো‘আ #১</item>
+        <item>সালাতের শুরুতে দো‘আ #২</item>
+        <item>সালাতের শুরুতে দো‘আ #৩</item>
+        <item>সালাতের শুরুতে দো‘আ #৪</item>
+        <item>সালাতের শুরুতে দো‘আ #৫</item>
+        <item>সালাতের শুরুতে দো‘আ #৬</item>
+    </string-array>
+</resources>
